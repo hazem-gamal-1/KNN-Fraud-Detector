@@ -1,0 +1,13 @@
+{
+    "config": {
+        "preprocessing": "MinMaxScaler",
+        "sampling": "K-means centers",
+        "n_neighbors": 71
+    },
+    "results_testing": {
+        "f1_score": 0.7729468599033816,
+        "precision": 0.7272727272727273,
+        "recall": 0.8247422680412371,
+        "inference_time": 14.973519325256348
+    }
+}
