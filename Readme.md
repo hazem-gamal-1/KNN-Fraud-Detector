@@ -1,9 +1,9 @@
-# Credit Card Fraud Detector
+# KNN Fraud Detector
 
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Exploratory Data Analysis EDA](#exploratory-data-analysis-eda)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Results](#results)
