@@ -3,13 +3,13 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Exploratory Data Analysis EDA](#exploratory-data-analysis-eda)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Results](#results)
 
 ## Project Overview
-The **Credit Card Fraud Detector** project aims to identify fraudulent transactions using the K-Nearest Neighbors (KNN) algorithm. The project utilizes various data preprocessing and sampling techniques to handle class imbalance and improve model performance.
+The **KNN Fraud Detector** project aims to identify fraudulent transactions using the K-Nearest Neighbors (KNN) algorithm. The project utilizes various data preprocessing and sampling techniques to handle class imbalance and improve model performance.
 
 ## Features
 - **Data Preparation and Preprocessing:** Utilizes Min-Max scaling or Standard scaling for feature normalization.
