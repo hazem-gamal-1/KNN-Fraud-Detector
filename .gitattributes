@@ -1,3 +1,2 @@
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-
-*.py linguist-detectable=true        
+*.py linguist-language=Python
+*.ipynb linguist-language=Jupyter Notebook
