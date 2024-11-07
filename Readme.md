@@ -11,6 +11,7 @@
 
 # Project Overview
 ### The **KNN Fraud Detector** is a machine learning project designed to detect fraudulent credit card transactions using the K-Nearest Neighbors (KNN) algorithm. Given the highly imbalanced nature of fraud detection datasets, the project implements specific techniques for sampling and preprocessing to improve model performance. The goal is to build an effective classifier that can predict fraudulent transactions based on historical transaction data. The project steps include data preparation, feature scaling, model training, and performance evaluation.
+
 ---
 
 
