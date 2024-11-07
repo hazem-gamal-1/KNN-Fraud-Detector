@@ -1,0 +1,11 @@
+{
+    "config": {
+        "preprocessing": "MinMaxScaler",
+        "sampling": "K-means centers",
+        "n_neighbors": 71
+    },
+    "results_testing": {
+        "f1_score": 0.7729468599033816,
+        "Auc_PR": 0.6001110136316249
+    }
+}
